@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="kalkulator.History"
+             Title="History">
+    <VerticalStackLayout>
+        <Label x:Name="wynik_1"
+               FontSize="64" FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="End"
+               LineBreakMode="NoWrap" Grid.ColumnSpan="4" 
+               />
+        <Label x:Name="wynik_2"
+               FontSize="64" FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="End"
+               LineBreakMode="NoWrap" Grid.ColumnSpan="4" 
+               />
+        <Label x:Name="wynik_3"
+               FontSize="64" FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="End"
+               LineBreakMode="NoWrap" Grid.ColumnSpan="4" 
+               />
+        <Label x:Name="wynik_4"
+               FontSize="64" FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="End"
+               LineBreakMode="NoWrap" Grid.ColumnSpan="4" 
+               />
+        <Label x:Name="wynik_5"
+               FontSize="64" FontAttributes="Bold"
+               HorizontalTextAlignment="End"
+               VerticalTextAlignment="End"
+               LineBreakMode="NoWrap" Grid.ColumnSpan="4" 
+               />
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\Milosz\source\repos\kalkulator\kalkulator\kalkulator.csproj;x64
