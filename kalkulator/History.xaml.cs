@@ -17,7 +17,7 @@ public partial class History : ContentPage
         for (int i = 0; i < 5; i++)
         {
             if (chars[i]!='@')
-                texts[i].Text = numbers[i, 0].ToString() + " " + chars[i].ToString() + " " + numbers[i, 1].ToString() + " = " + numbers[i, 2].ToString();
+                texts[i].Text = (i+1).ToString()+". "+numbers[i, 0].ToString() + " " + chars[i].ToString() + " " + numbers[i, 1].ToString() + " = " + numbers[i, 2].ToString();
         }
     }
 }
