@@ -4,7 +4,7 @@
              x:Class="kalkulator.History"
              Title="History">
     <VerticalStackLayout
-        Background="#51799e">
+        Background="#000">
         
         <Label x:Name="wynik_1"
                FontSize="32" FontAttributes="Bold"
@@ -13,6 +13,7 @@
                LineBreakMode="NoWrap" Grid.ColumnSpan="4" 
                Margin="20"
                Background="#525252"
+               
                TextColor="White"
                />
         <Label x:Name="wynik_2"

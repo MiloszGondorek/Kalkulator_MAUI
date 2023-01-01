@@ -29,10 +29,16 @@ public partial class MainPage : ContentPage
 			newCalculation = false;
             zeros = "";
             SetInput(currentNumber);
+			currentAction=actionChars.none;
         }
 		if (c == ".")
 		{
 			wrtieFraction= true;
+			if (!input.Text.Contains(','))
+			{
+				zeros = ",";
+				SetInput(currentNumber);
+			}
 		}
 		else if (c == "00")
 		{
@@ -84,14 +90,11 @@ public partial class MainPage : ContentPage
         zeros = "";
         newCalculation = false;
         SetInput(currentNumber);
+		currentAction = actionChars.none;
 	}
 
 	private void SetInput(double n)
 	{
-		if (zeros.Length > 0 && !zeros.Contains(',') && !input.Text.Contains(","))
-		{
-			zeros = ","+zeros;
-		}
 		input.Text = (Math.Round(n, 8)).ToString()+zeros;
 	}
     private void SetInput(String s)

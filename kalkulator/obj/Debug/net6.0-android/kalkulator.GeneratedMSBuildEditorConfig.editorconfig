@@ -8,39 +8,39 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kalkulator
-build_property.ProjectDir = C:\Users\Milosz\source\repos\kalkulator\kalkulator\
+build_property.ProjectDir = C:\Users\milos\OneDrive\Pulpit\Kalkulator_MAUI\kalkulator\
 
-[C:/Users/Milosz/source/repos/kalkulator/kalkulator/App.xaml]
+[C:/Users/milos/OneDrive/Pulpit/Kalkulator_MAUI/kalkulator/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = kalkulator.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Milosz/source/repos/kalkulator/kalkulator/AppShell.xaml]
+[C:/Users/milos/OneDrive/Pulpit/Kalkulator_MAUI/kalkulator/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = kalkulator.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Milosz/source/repos/kalkulator/kalkulator/History.xaml]
+[C:/Users/milos/OneDrive/Pulpit/Kalkulator_MAUI/kalkulator/History.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = kalkulator.History.xaml
 build_metadata.AdditionalFiles.TargetPath = History.xaml
 build_metadata.AdditionalFiles.RelativePath = History.xaml
 
-[C:/Users/Milosz/source/repos/kalkulator/kalkulator/MainPage.xaml]
+[C:/Users/milos/OneDrive/Pulpit/Kalkulator_MAUI/kalkulator/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = kalkulator.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Milosz/source/repos/kalkulator/kalkulator/Resources/Styles/Colors.xaml]
+[C:/Users/milos/OneDrive/Pulpit/Kalkulator_MAUI/kalkulator/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = kalkulator.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Milosz/source/repos/kalkulator/kalkulator/Resources/Styles/Styles.xaml]
+[C:/Users/milos/OneDrive/Pulpit/Kalkulator_MAUI/kalkulator/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = kalkulator.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

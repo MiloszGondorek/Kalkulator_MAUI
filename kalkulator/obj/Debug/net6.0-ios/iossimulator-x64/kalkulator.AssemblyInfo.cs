@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("kalkulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kalkulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS16.1")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS16.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS14.2")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
